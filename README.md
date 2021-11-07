@@ -1,6 +1,6 @@
 # LED Controller with ESP32 HTTP Webserver with Vue3 + Quasar
 
-## live demo of website
+## Running Live Demo of Website
 ```
 $ cd front/led-quasar
 $ quasar dev  
